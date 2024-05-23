@@ -13,6 +13,7 @@ RUN apt-get -qq update \
  && apt-get install -qqy --no-install-recommends \
       bzip2 \
       curl \
+      tree \
       git-core \
       html2text \
       openjdk-17-jdk \
